@@ -28,21 +28,21 @@ Enjoy full control over your funds, knowing that only you can access your assets
 To clone the repo to your local machine, run the following command in your terminal:
     
     ```bash
-    git clone https://github.com/<your-github-username>/CryptoX
+    git clone https://github.com/gayatri192005/CryptoX
     ```
 
 3. Add a remote upstream to the original repo.
 To add a remote upstream, run the following command in your terminal:
     
     ```bash
-    git remote add upstream https://github.com/Durgesh4993/CryptoX
+    git remote add upstream https://github.com/gayatri192005/CryptoX
     ```
 
 4. Create a new branch.
 To create a new branch, run the following command in your terminal:
     
     ```bash
-    git checkout -b <your-branch-name>
+    git checkout -b Crypto-fin
     ```
 
 5. Make changes in source code.
@@ -105,12 +105,6 @@ ________________________________________________________________________________
 ![image](https://github.com/Durgesh4993/CryptoX/assets/98798977/bdfb1eac-a6cb-4969-ad51-fd3a8bc77245)
 
 ![image](https://github.com/Durgesh4993/CryptoX/assets/98798977/612f023d-74d0-4792-9784-5cda3d3c11a1)
-
-______________________________________________________________________________________________________________________________________________________________________________________________________
-
-# Demo Vedio
-
-https://github.com/Durgesh4993/CryptoX/assets/98798977/cc48d6d4-b12f-4594-bca0-c672f987d7c9
 ______________________________________________________________________________________________________________________________________________________________________________________________________
 
 Show Support and Open for the Collaboration
